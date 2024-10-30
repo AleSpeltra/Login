@@ -1,0 +1,13 @@
+Name: Groups
+Id: g=33ac98afcbbcd645bc8146197074cc43
+Type: GroupsCategoryFolder
+Children:
+- Name: ADM
+  Id: g=97748bbe0b2b264f62f342a2eb71481d
+  Type: GroupType
+- Name: DV
+  Id: g=856828db887243678721b5b4f6d5fd35
+  Type: GroupType
+- Name: USR
+  Id: g=3db4d17283029d68315c87d60342a28b
+  Type: GroupType

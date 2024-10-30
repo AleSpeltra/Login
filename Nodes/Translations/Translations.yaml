@@ -1,0 +1,49 @@
+Name: Translations
+Type: TranslationsCategoryFolder
+Children:
+- Name: LocalizationDictionary1
+  Type: LocalizationDictionary
+  DataType: String
+  ValueRank: OneOrMoreDimensions
+  ArrayDimensions: [0,0]
+  Value: 
+   {
+    "Type": 12,
+    "Dimensions": [34,4],
+    "Body": [
+     "","en-US","it-IT","fr-CA",
+     "LoginChangePasswordFormPasswordTooShort","Password too short","prova","",
+     "Confirm password","Confirm password","prova","",
+     "Password","Password","prova","",
+     "New password","New password","prova","",
+     "LoginFormPasswordExpired","Password expired","prova","",
+     "Login","Login","prova","",
+     "Old password","Old password","prova","",
+     "Change password","Change password","prova","",
+     "Logout","Logout","prova","",
+     "Current User:","Current User:","prova","",
+     "Your password is expired. Please enter a new one","Your password is expired.\nPlease enter a new one.","prova","",
+     "LoginFormLoginSuccessful","Login successful","prova","",
+     "LoginChangePasswordFormUnsupportedOperation","Unsupported operation","prova","",
+     "LoginFormAuthenticationFailed","Authentication failed","prova","",
+     "LoginChangePasswordFormWrongOldPassword","Wrong old password","prova","",
+     "LoginChangePasswordFormUserNotFound","User not found","prova","",
+     "LoginChangePasswordFormPasswordAlreadyUsed","Password already used","prova","",
+     "LoginChangePasswordFormPasswordChangedTooRecently","Password changed too recently","prova","",
+     "LoginChangePasswordFormPasswordsDoNotMatch","Passwords do not match","prova","",
+     "Button1","Button1","prova","",
+     "ENG","ENG","prova","",
+     "ITA","ITA","prova","",
+     "Reboot","Reboot","Riavvia","",
+     "Apply","Apply","Applica","",
+     "Mask","Mask","Maschera","",
+     "RebootToCommitChanges","Reboot to commit changes","Riavviare per applicare le modifiche","",
+     "DNS2","DNS 2","DNS 2","",
+     "DHCPClientEnabled","DHCP client enabled","Client DHCP abilitato","",
+     "IPAddress","IP address","Indirizzo IP","",
+     "DNS1","DNS 1","DNS 1","",
+     "LAN","LAN","LAN","",
+     "WAN","WAN","WAN","",
+     "DefaultGateway","Default gateway","Gateway predefinito",""
+    ]
+   }
